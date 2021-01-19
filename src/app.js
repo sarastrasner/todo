@@ -1,12 +1,15 @@
 import React from 'react';
 import ToDo from './components/todo/todo.js';
+import './components/app.scss'
 
-export default class App extends React.Component {
-  render() {
-    return (
-      <>
-        <ToDo />
-      </>
-    );
-  }
+function App(props) {
+  return (
+    <>
+    
+      <ToDo />
+      
+    </>
+  );
 }
+
+export default App;
