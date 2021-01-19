@@ -1,3 +1,30 @@
+# LAB 31
+
+## Project: To Do
+
+### Author: Sara Strasner
+
+### Links and Resources
+
+- [deployed app](https://codesandbox.io/s/friendly-fog-0do5b?file=/src/components/todo/list.js)
+- [Latest PR](hhttps://github.com/sarastrasner/todo/pull/3)
+
+### Setup
+
+#### `.env` requirements (where applicable)
+
+- SKIP_PREFLIGHT_CHECK=true
+
+#### How to initialize/run your application (where applicable)
+
+- `npm start`
+
+#### UML
+
+![UML](./assets/lab31UML.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
